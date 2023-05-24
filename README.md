@@ -8,7 +8,7 @@ Just follow these steps:
     - You're ready to go ;)
 
 - UnRoot
-    - Install `Virtual` from [Groub Telgram]https://t.me/+PMIiSD1Xzw0wM2Zl
+    - Install `Virtual` from [Groub Telegram]https://t.me/+PMIiSD1Xzw0wM2Zl
     - Install `Apk Inject` form releases
     - Copy `Car Parking Multiplayer` to `Virtual`
     - Copy `Apk Inject` to `Virtual`
